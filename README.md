@@ -13,7 +13,13 @@ Avec plus de **3 ans d’expérience professionnelle**, j’ai déjà travaillé
 🎥 Mon travail a été mentionné sur différentes chaînes et médias tech, dont **QU4TRE**.  
 
 ---
-
+## Participations
+- exposant **Municipalia 2025**
+- exposant **World Smart City Congress Barcelone 2025**
+- exposant **Municipalia 2026**
+- présentateur première édition du **Data Forum Digital Wallonia** ⭐
+- exposant prochainement au **World Smart City Congress Barcelone 2026**
+ 
 ## 💼 Expérience & Formation
 - 🎓 2 ans à **Saint Bart**
 - 🎓 3 ans à **IMT**
