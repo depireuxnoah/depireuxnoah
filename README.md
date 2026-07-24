@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenue sur mon GitHub</h1>
 
 <p align="center">
-  <b>Noah Depireux • Développeur Web • 21 ans • Liège (BE)</b>  
+  <b>Noah Depireux • Développeur Web • 22 ans • Liège (BE)</b>  
 </p>
 
 ---
