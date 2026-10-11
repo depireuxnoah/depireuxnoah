@@ -18,14 +18,17 @@ Avec plus de **3 ans d’expérience professionnelle**, j’ai déjà travaillé
 - exposant **World Smart City Congress Barcelone 2025**
 - exposant **Municipalia 2026**
 - présentateur première édition du **Data Forum Digital Wallonia** ⭐
+- exposant **Inondéa 2026**
 - exposant prochainement au **World Smart City Congress Barcelone 2026**
- 
+- exposant prochainement au **Web Summit Lisbonne 2026**
+- exposant prochainement au **Salon des Maires de Paris 2026**
+
 ## 💼 Expérience & Formation
 - 🎓 2 ans à **Saint Bart**
 - 🎓 3 ans à **IMT**
 - 🎓 2 ans à **IFAPME**
 - 💻 2 ans chez **PRISMATECH SPRL (Web Developer)**
-- 💻 Actuellement **Web Developer @ Kolibri Consulting**
+- 💻 Actuellement **Web Developer chez Kolibri Consulting**
 
 ---
 
